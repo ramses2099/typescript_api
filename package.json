@@ -1,0 +1,31 @@
+{
+  "name": "typescript_api",
+  "version": "1.0.0",
+  "description": "TypeScript Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramses2099/typescript_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ramses2099/typescript_api/issues"
+  },
+  "homepage": "https://github.com/ramses2099/typescript_api#readme",
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.8",
+    "@types/express": "^5.0.0",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
